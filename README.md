@@ -1,11 +1,18 @@
-# Practicum-Analysis
-An investigation into the correlation between explorative behavior and stereotypical thinking, using Python and JASP for data analysis.
-# Practicum Statement
+### The Relationship Between Stereotypic Thinking and the Exploration-Exploitation Spectrum
 
-**Supervisor:** Prof Moshe Bar
+#### Overview
+This study investigates the link between stereotypic thinking and cognitive styles leaning towards exploration or exploitation. It aims to answer whether individuals with a more explorative cognitive style exhibit lower levels of stereotypic thinking when encountering out-groups.
 
-**Subject:** Investigating the connection between stereotypic thinking and the exploration-exploitation spectrum
+#### Methodology
+- **Participants**: 22 individuals (8 men, 14 women; 3 Arabs, 19 Jews; ages 18-30).
+- **Design**: Remote experimental design with four computer-based tasks.
+- **Tasks**: Implicit Association Test (IAT), Iowa Gambling Task (IGT), Navon Task, and Alternative Uses Task (AUT).
 
-The main goal of the project is to examine whether people who tend to be more explorative by their nature (i.e., willing to take more risks, have a more global attention, and tend to have divergent thinking rather than convergent) also tend to be less stereotypic when encountering people from their out-group.
+#### Key Findings
+- **IAT**: Varying levels of racial bias were observed across groups.
+- **IGT and AUT**: No significant correlation with IAT results.
+- **ANOVA**: Significant variations in divergent thinking but not in risk-taking behavior or focus level.
 
-The work is going to be conducted by recruiting subjects, conducting Implicit Associative Test (IAT) to test their level of stereotypical thinking, conducting experiments (Iowa Gambling Test-IGT, Navon task, AUT) to test their level on the exploration-exploitation spectrum, and analyzing the results in order to find a correlation between the two indices.
+#### Conclusion
+The study found no clear correlation between explorative cognitive styles and lower levels of stereotypic thinking. While cognitive flexibility varies among individuals, it does not reliably predict the extent of implicit biases. The study suggests the need for more nuanced methods and opens avenues for future research.
+
