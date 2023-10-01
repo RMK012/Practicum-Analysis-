@@ -1,0 +1,63 @@
+version: 3.4.4
+server-time: 2023-05-23-12-12
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/113.0.0.0 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: gender
+stime: 2023-05-23-12-13
+T: 4795
+t: radio
+a: 1
+l: gender
+stime: 2023-05-23-12-13
+T: 4795
+t: radio
+a: 1
+l: age
+stime: 2023-05-23-12-13
+T: 4795
+t: textline
+a: 28
+l: IATexperiment
+stime: 2023-05-23-12-25
+T: 749696
+t: experiment
+l: IGTexperiment
+stime: 2023-05-23-12-26
+T: 81859
+t: experiment
+l: NavonTask
+stime: 2023-05-23-12-29
+T: 181906
+t: experiment
+l: Paperclip
+stime: 2023-05-23-12-30
+T: 25773
+t: textline
+a: נשק, רובה
+l: Shoe
+stime: 2023-05-23-12-31
+T: 40767
+t: textline
+a: כוס שתייה, נשק
+l: Brick
+stime: 2023-05-23-12-31
+T: 20600
+t: textline
+a: נשק, משחק
+l: Pen
+stime: 2023-05-23-12-31
+T: 27309
+t: textline
+a: מכשיר רפואי, 
+l: Spoon
+stime: 2023-05-23-12-32
+T: 5447
+t: textline
+a: נשק, משגר
+endcode: 
+end 2023-05-23-12-32
